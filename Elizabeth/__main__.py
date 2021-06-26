@@ -39,8 +39,8 @@ from Elizabeth.modules.helper_funcs.alternate import typing_action
 
 
 PM_START_TEXT = f"""
-`Hi..Welcome` [🦋](https://telegra.ph/file/debaabe44781f92783315.jpg)
-`I'm`  єlízαвєth
+`Hi..I am your Angelu welcome ` [🦋](https:https://telegra.ph/file/a928d734a48889d3b9edb.jpg)
+`I'm`  Angel
 `I'm here to help you manage your groups.. Click Help button to find out more about how to use me to my full potential..`
 """
 
@@ -48,14 +48,14 @@ buttons = [[InlineKeyboardButton(text=" HELP AND COMMANDS ❓",
                                   callback_data="help_back"),
 ]]
 
-buttons += [[InlineKeyboardButton(text="♻️ ADD ME TO YOUR GROUP ♻️",
+buttons += [[InlineKeyboardButton(text="♻️ Hey add mee in your grop I cant help you ♻️",
                                   url="t.me/Elizabeth_TgBot?startgroup=true"),
 ]]
 
 buttons += [[InlineKeyboardButton(text="SOURCE CODE 💫",
-                                  url="https://t.me/MR_SHRLOCK/49"),
+                                  url="https:https://t.me/myAngelqueen/3"),
              InlineKeyboardButton(text="SUPPORT🌳",
-                                  url="https://t.me/joinchat/oxSPzt02LkgxOTY9"),
+                                  url="https:https://t.me/joinchat/za24rHqXcZU5Y2Rl"),
 ]]
 
 buttons += [[InlineKeyboardButton(text="🎀 CLOSE THE MENU 🎀",
@@ -63,7 +63,7 @@ buttons += [[InlineKeyboardButton(text="🎀 CLOSE THE MENU 🎀",
 
 
 HELP_STRINGS = f"""
-`Hi.. I'm` єlízαвєth[🦋](https://telegra.ph/file/54ed9e0d6eef2cc730f12.jpg)
+`Hi.. I'm` Angel[🦋](https://telegra.ph/file/a928d734a48889d3b9edb.jpg)
 `Click on the buttons below to get documentation about specific modules..`"""
 
 
